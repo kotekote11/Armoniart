@@ -1,0 +1,3 @@
+User-agent: *
+Host: https://armoniart.ru/
+Sitemap: https://armoniart.ru/sitemap.xml
