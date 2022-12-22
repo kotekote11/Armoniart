@@ -1,6 +1,4 @@
 User-agent: *
-Allow: /
-Disallow: //*
-Disallow: /index.html
+Disallow: /
 Host: https://armoniart.ru/
 Sitemap: https://armoniart.ru/sitemap.xml
