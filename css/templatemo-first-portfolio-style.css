@@ -304,7 +304,7 @@ strong {
 .sticky-wrapper {
   position: relative;
   z-index: 222;
-  height: auto;
+  height: auto !important;
 }
 
 .is-sticky,
